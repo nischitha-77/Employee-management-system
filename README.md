@@ -1,5 +1,6 @@
 # Employee-management-system
-Overview
+## Overview
+
 The Employee Management System is a simple console-based application written in C# that allows users to manage employee records efficiently. The system provides functionalities to add, update, display, and delete employee details.
 
 Features
