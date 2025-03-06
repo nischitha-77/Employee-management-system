@@ -11,3 +11,8 @@ Display All Employees: View details of all employees in the system.
 Update Employee Information: Modify an employee's Name, Department, or Salary.
 Delete an Employee: Remove an employee record permanently.
 User-Friendly Interface: Interactive prompts guide users through various operations.
+
+### Technologies Used
+
+C#
+.NET Core
